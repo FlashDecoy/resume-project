@@ -1,2 +1,2 @@
 # webdesign.github.io
-This repository disoplay the html and css to make a customized resume.
+This repository contains the html and css files needed to make a customized resume.
